@@ -1,0 +1,102 @@
+📝 Change Log / Журнал изменений
+By 127.0.0.0 (a.k.a MacOS extended)
+
+📅 12 September 2025
+Night Build / Ночной билд
+Added / Добавлено:
+• 	YouTube Music (LiquidGlass)
+• 	TeamViewer (LiquidGlass)
+• 	Windows App (LiquidGlass / MacOS 15)
+• 	Acrobat (MacOS 15)
+• 	Telegram (MacOS 15, alt versions)
+• 	Google apps (LiquidGlass / MacOS 15)
+• 	VMWare (MacOS 15)
+• 	Google Gemini (MacOS 15, alt versions)
+
+📅 12–13 September 2025
+Night Build / Ночной билд
+Added / Добавлено:
+• 	VLC (LiquidGlass / MacOS 15)
+• 	BlueStack (LiquidGlass / MacOS 15)
+• 	Google (LiquidGlass)
+• 	MacOS 26 Tahoe VM (LiquidGlass)
+• 	Amazon (LiquidGlass)
+• 	qBittorrent (LiquidGlass)
+
+📅 17 September 2025 — Beta 1
+Added / Добавлено:
+• 	Hyperbeam (LiquidGlass)
+
+📅 19 September 2025 — Beta 1 (LiquidGlass)
+Added / Добавлено:
+• 	GitHub
+• 	YouTube (alt)
+• 	Wins
+• 	Prism Launcher (alt)
+• 	Anki (alt)
+• 	Affinity Photo / Designer
+• 	Outlook, OneDrive, Bitwarden
+• 	Zoom, Final Cut Pro, UTM
+
+📅 21 September 2025 — Beta Release
+Update / Обновление:
+• 	Added dark theme for LiquidGlass
+• 	Добавлена тёмная тема для LiquidGlass
+
+📅 23 September 2025 — v1.4.4 Alpha 1
+Added / Добавлено:
+• 	Wallpaper / Обои
+
+📅 29 September 2025 — v1.4.4 Beta 1
+Added / Добавлено:
+• 	Thinkorswim (Dark)
+• 	WireGuard (Dark / Light)
+• 	Logic Pro (Dark)
+• 	ZBrush (Dark / Light)
+• 	Teams, Plaky, Noiry (Dark), Glance
+• 	Chromium (Dark), MiddleClick (Dark)
+• 	Self Control (Dark)
+• 	SteelSeries GG (Dark / Light)
+
+🚀 v1.5 Release — LIBDock Project
+By W1xced & 127.0.0.0
+Changes / Изменения:
+•     ➕ 35+ new icons / 35+ новых иконок
+•     ➕ More wallpapers / Больше обоев
+•     ➕ Support MacOS 15 Dark / Поддержка MacOS 15 Dark
+•     ➕ Add support Russia lang / Добавлена поддержка русского языка
+•     ➕ Add dark theme for MacOS 26 / Добавлена темная тема для MacOS 26
+•     🛠 Fixed all icon names / Исправлены все названия иконок
+•     🛠 Fixed all wallpaper names / Исправлены все названия обоев
+•     🔄 Updated ExplorerBlurMica to latest version / Обновлён ExplorerBlurMica до последней версии
+
+📅 3 October 2025 — v1.6 alpha 1
+Added / Добавлено:
+•  ➕40+ icons (13 icons custom by icon Copmposer Beta)
+•  ➕40+ Иконок (13 иконок редактированы от icon Composer Beta) 
+
+            https://developer.apple.com/icon-composer/
+
+📅 28 October 2025 — v1.6 Alpha 2
+Added / Добавлено:
+• ➕ 45+ new icons (3 custom via icon Composer Beta)
+• ➕ 45+ новых иконок (3 кастомных через icon Composer Beta)
+
+📅 29 February 2025 — v1.6 Release
+Added / Добавлено:
+• ➕ 80+ new icons (20+ custom via icon Composer Beta)
+• ➕ 80+ новых иконок (20+ кастомных через icon Composer Beta)
+• ➕ 90+- Wallpaper add 
+• ➕ 90+- Обоев добавлено
+• ➕ The new file structure is now more concise and easier to understand
+• ➕ Новая структура файлов теперь более лаконична и легче для понимания
+• 🛠 Fixed all icon names / Исправлены все названия иконок
+• 🛠 Исправлены все названия иконок
+
+
+
+
+
+
+
+
